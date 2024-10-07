@@ -9,6 +9,7 @@ from mdv.pprint import heading
 plot_dmp_data = False
 plot_solutions = True
 
+# A test
 heading("DMP", "Load data", "DMP learning")
 
 print("Loading reference data")
